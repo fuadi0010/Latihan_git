@@ -1,16 +1,16 @@
-#Belajar Markdown
+# Belajar Markdown
 
-##Teks
+## Teks
 **Contoh tebal**
 *contoh miring*
 ~~dicoret~~
 
-###List
+### List
 1.makanan
 2.minuman
 3.Sayuran
 
-###UList
+### UList
 makanan
 minuman
 sayuran
